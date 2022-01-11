@@ -1,0 +1,4 @@
+https://fifecol-my.sharepoint.com/:v:/g/personal/1986813_fife_ac_uk/EYoUr4TB7Z1Mn632JIiM1FYB_mGFZhr0hfVVenb74RfQPg?e=FRstET
+
+video file should be put in folder with other files, there is only 1 folder for whole website.
+folder should be called "website", the video should be exactly named 20211201_2160p and be in .mp4
